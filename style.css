@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #063852;
+    color: #f0810f
+}
+h1{
+    background-color: #e6df44;
+    color: #011a27;
+}
+h2{
+    background-color: #e6df44;
+    color: #011a27;
+}
+p{
+    color: beige;
+}
